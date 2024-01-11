@@ -1,0 +1,28 @@
+
+
+.app{
+    display: flex;
+    flex-direction: column;
+
+}
+header{
+    background-color: black;
+    color: white;
+    padding: 10px;
+
+}
+main{
+    flex: 1;
+    height: 80vh;
+}
+footer{
+    background-color: aqua;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+.wrapper{
+    display: flex;
+}
